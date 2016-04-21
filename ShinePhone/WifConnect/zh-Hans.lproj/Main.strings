@@ -1,0 +1,164 @@
+
+/* Class = "UILabel"; text = "New password:"; ObjectID = "0xb-IM-1c7"; */
+"0xb-IM-1c7.text" = "新密码:";
+
+/* Class = "UINavigationItem"; title = "ShineWIFI"; ObjectID = "2q1-vO-TZP"; */
+"2q1-vO-TZP.title" = "配置设备";
+
+/* Class = "UILabel"; text = "设置家庭路由器扫描设备"; ObjectID = "3TB-Ws-Zk0"; */
+"3TB-Ws-Zk0.text" = "设置家庭路由器扫描设备";
+
+/* Class = "UIButton"; normalTitle = "ShineWifiBox"; ObjectID = "40b-PU-ZbL"; */
+"40b-PU-ZbL.normalTitle" = "ShineWifiBox";
+
+/* Class = "UILabel"; text = "Please enter the phone system needs to be set on a connection WiFi device"; ObjectID = "4Ym-g4-LIk"; */
+"4Ym-g4-LIk.text" = "请进入手机系统连接上需要设置的wifi设备";
+
+/* Class = "UIViewController"; title = "一键配置"; ObjectID = "4ps-oN-IKN"; */
+"4ps-oN-IKN.title" = "一键配置";
+
+/* Class = "UILabel"; text = "Website:"; ObjectID = "7M5-31-nGf"; */
+"7M5-31-nGf.text" = "网址:";
+
+/* Class = "UILabel"; text = "2.0"; ObjectID = "8IG-5F-QyI"; */
+"8IG-5F-QyI.text" = "2.0";
+
+/* Class = "UILabel"; text = "Version:"; ObjectID = "BmD-iP-4C7"; */
+"BmD-iP-4C7.text" = "版本:";
+
+/* Class = "UILabel"; text = "2.0"; ObjectID = "CrF-dq-6qu"; */
+"CrF-dq-6qu.text" = "2.0";
+
+/* Class = "UILabel"; text = "©2015-2016 Growatt"; ObjectID = "Dg9-MK-Asq"; */
+"Dg9-MK-Asq.text" = "©2015-2016古瑞瓦特";
+
+/* Class = "UILabel"; text = "©2015-2016 Growatt"; ObjectID = "DxV-3Q-Qog"; */
+"DxV-3Q-Qog.text" = "©2015-2016 古瑞瓦特";
+
+/* Class = "UILabel"; text = "www.growatt.com"; ObjectID = "FRD-9l-ziS"; */
+"FRD-9l-ziS.text" = "www.growatt.com";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "Gha-sL-8cW"; */
+"Gha-sL-8cW.text" = "名称:";
+
+/* Class = "UILabel"; text = "Serial number:"; ObjectID = "HXP-Fb-edu"; */
+"HXP-Fb-edu.text" = "采集器序列号:";
+
+/* Class = "UILabel"; text = "Copyright:"; ObjectID = "IH0-5V-dcg"; */
+"IH0-5V-dcg.text" = "版权:";
+
+/* Class = "UILabel"; text = "Please enter you need to connect the router name and password"; ObjectID = "IvY-fV-y9J"; */
+"IvY-fV-y9J.text" = "请输入需要连接的路由器名称及密码";
+
+/* Class = "UITextField"; placeholder = "请输入wifi名称"; ObjectID = "JJ8-Bf-h8g"; */
+"JJ8-Bf-h8g.placeholder" = "请输入wifi名称";
+
+/* Class = "UITextField"; text = "wifi名称"; ObjectID = "JJ8-Bf-h8g"; */
+"JJ8-Bf-h8g.text" = "wifi名称";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "JW9-TK-uZw"; */
+"JW9-TK-uZw.normalTitle" = "设置";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "KMX-rK-x48"; */
+"KMX-rK-x48.normalTitle" = "关于";
+
+/* Class = "UILabel"; text = "Check code:"; ObjectID = "MDH-xj-wk2"; */
+"MDH-xj-wk2.text" = "采集器校验码:";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "MWq-FI-5sl"; */
+"MWq-FI-5sl.title" = "关于";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Sdf-U7-KcB"; */
+"Sdf-U7-KcB.normalTitle" = "返回";
+
+/* Class = "UITextField"; placeholder = "请输入路由器密码"; ObjectID = "TKY-8o-k8q"; */
+"TKY-8o-k8q.placeholder" = "请输入路由器密码";
+
+/* Class = "UIBarButtonItem"; title = "About"; ObjectID = "Thg-TJ-3lI"; */
+"Thg-TJ-3lI.title" = "关于";
+
+/* Class = "UILabel"; text = "ShineWifiBox"; ObjectID = "UO5-Nh-pZp"; */
+"UO5-Nh-pZp.text" = "ShineWifiBox";
+
+/* Class = "UITextField"; placeholder = "请输入路由器名称"; ObjectID = "XBy-KH-9Xv"; */
+"XBy-KH-9Xv.placeholder" = "请输入路由器名称";
+
+/* Class = "UILabel"; text = "Copyright:"; ObjectID = "bIL-Xo-EVu"; */
+"bIL-Xo-EVu.text" = "版权:";
+
+/* Class = "UILabel"; text = "Version:"; ObjectID = "cjc-Wn-NID"; */
+"cjc-Wn-NID.text" = "版本:";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "d3j-au-czP"; */
+"d3j-au-czP.normalTitle" = "返回";
+
+/* Class = "UILabel"; text = "www.growatt.com"; ObjectID = "dBg-m9-BKr"; */
+"dBg-m9-BKr.text" = "www.growatt.com";
+
+/* Class = "UIButton"; normalTitle = "Set"; ObjectID = "dLF-Ob-ZQJ"; */
+"dLF-Ob-ZQJ.normalTitle" = "设置";
+
+/* Class = "UIViewController"; title = "设备"; ObjectID = "fSv-Sr-et7"; */
+"fSv-Sr-et7.title" = "设备";
+
+/* Class = "UILabel"; text = "Display"; ObjectID = "gMu-Rq-PcN"; */
+"gMu-Rq-PcN.text" = "显示";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "hbd-ig-a7C"; */
+"hbd-ig-a7C.text" = "名称:";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "hc2-H0-sdt"; */
+"hc2-H0-sdt.text" = "密码:";
+
+/* Class = "UILabel"; text = "ShineWifiBox"; ObjectID = "hxJ-Xh-koO"; */
+"hxJ-Xh-koO.text" = "ShineWifiBox";
+
+/* Class = "UILabel"; text = "Modify Wi-Fi Module password:"; ObjectID = "k5m-rh-O7y"; */
+"k5m-rh-O7y.text" = "修改 Wi-Fi Module 密码:";
+
+/* Class = "UILabel"; text = "Website:"; ObjectID = "kjN-I0-4zQ"; */
+"kjN-I0-4zQ.text" = "网址:";
+
+/* Class = "UINavigationItem"; title = "Device List"; ObjectID = "mVQ-Z1-2JH"; */
+"mVQ-Z1-2JH.title" = "已配置设备";
+
+/* Class = "UILabel"; text = "Display"; ObjectID = "qLC-8c-3Y6"; */
+"qLC-8c-3Y6.text" = "显示";
+
+/* Class = "UITextField"; text = "Port：SN begin with other"; ObjectID = "u4K-vs-6pK"; */
+"u4K-vs-6pK.text" = "入口： 除“4K”以外的SN号";
+
+/* Class = "UITextField"; text = "Port：SN begin with \"4K\""; ObjectID = "u6b-WP-NG1"; */
+"u6b-WP-NG1.text" = "入口：以“4K”开头的SN号";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "u7H-SR-MxA"; */
+"u7H-SR-MxA.text" = "Title";
+
+/* Class = "UILabel"; text = "Query Collector Message:"; ObjectID = "vBF-Yj-9Ew"; */
+"vBF-Yj-9Ew.text" = "查询采集器信息:";
+
+/* Class = "UIButton"; normalTitle = "ShineWifiBox-E"; ObjectID = "vg5-i4-qpz"; */
+"vg5-i4-qpz.normalTitle" = "ShineWifiBox-E";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "w5r-as-cB5"; */
+"w5r-as-cB5.title" = "关于";
+
+/* Class = "UIViewController"; title = "rootview"; ObjectID = "ybs-UX-DT7"; */
+"ybs-UX-DT7.title" = "rootview";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "zOy-SI-i4J"; */
+"zOy-SI-i4J.title" = "配置设备";
+
+/* Class = "UILabel"; text = "SSID:"; ObjectID = "zWO-BA-6oA"; */
+"zWO-BA-6oA.text" = "SSID:";
+
+/* Class = "UILabel"; text = "Port：SN begin with \"4K\""; ObjectID = "mcX-nm-dMy"; */
+"mcX-nm-dMy.text" = "入口：以“4K”开头的SN号";
+
+/* Class = "UILabel"; text = "Port：SN begin with other"; ObjectID = "heg-UF-01C"; */
+"heg-UF-01C.text"="入口： 除“4K”以外的SN号";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "QDn-wb-5gb"; */
+"QDn-wb-5gb.normalTitle" = "返回";
+
+

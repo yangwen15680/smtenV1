@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "30282F5B311059ABE3D77C5907FBBD2D3863D90B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9CF02B8438780CB436879E80822C35B6F46B70BC" : 0,
+    "30282F5B311059ABE3D77C5907FBBD2D3863D90B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DB4D5D67-9FD6-47B5-A305-0E88245484AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9CF02B8438780CB436879E80822C35B6F46B70BC" : "..\/..\/..\/Documents\/%E4%B8%8B%E8%BD%BD%E4%BB%A3%E7%A0%81\/QRCode_Demo",
+    "30282F5B311059ABE3D77C5907FBBD2D3863D90B" : "ShinePhone(%E6%B7%BB%E5%8A%A0%E9%85%8D%E7%BD%AE%E9%87%87%E9%9B%86%E5%99%A8)\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShinePhone",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ShinePhone.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yangwen15680\/shinephoneV1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30282F5B311059ABE3D77C5907FBBD2D3863D90B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiutianhuanpei\/QRCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9CF02B8438780CB436879E80822C35B6F46B70BC"
+    }
+  ]
+}
